@@ -12631,44 +12631,10 @@ ul {
     top: 100px
 }
 
-#Banner3_1 .banner3-text-wrapper>.l6d63i6f82-editor_css {
-    position: absolute;
-    top: -50px;
-    left: -90px
-}
-
 #Nav3_1 .home-page>.l67wp47vlsd-editor_css {
     width: 300px;
     top: 0;
     left: 0
-}
-
-#Banner3_1 .banner3-text-wrapper>.l6d63u1ead-editor_css {
-    position: absolute;
-    top: 450px;
-    left: 300px
-}
-
-#Banner3_1 .banner3-text-wrapper>.l6d69bnidi-editor_css {
-    position: relative;
-    top: 140px;
-    left: 370px
-}
-
-#Banner3_1 .banner3-text-wrapper>.l6d64t4na5-editor_css {
-    font-size: 100px;
-    line-height: 120px;
-    position: absolute;
-    top: 100px;
-    left: -50px
-}
-
-#Banner3_1 .banner3-text-wrapper>.l6d6ea7u426-editor_css {
-    font-size: 100px;
-    line-height: 120px;
-    position: relative;
-    top: 101px;
-    left: 150px
 }
 
 #Teams2_0.l67wbtjhq2-editor_css {
@@ -12679,4 +12645,47 @@ ul {
 
 #Teams2_0 .l6aex0wvdg-editor_css {
     max-height: 500px
+}
+
+#Banner3_1 .banner3-text-wrapper>.l6d64t4na5-editor_css {
+    font-size: 120px;
+    line-height: 140px;
+    position: absolute;
+    top: 120px;
+    left: -90px
+}
+
+#Banner3_1 .banner3-text-wrapper>.l6d6ea7u426-editor_css {
+    font-size: 120px;
+    line-height: 140px;
+    position: relative;
+    top: 120px;
+    left: 185px
+}
+
+#Banner3_1 .banner3-text-wrapper>.l6d63i6f82-editor_css {
+    display: inline;
+    font-size: 80px;
+    font-weight: lighter;
+    line-height: 100px;
+    position: absolute;
+    top: -40px;
+    left: -80px
+}
+
+#Banner3_1 .banner3-text-wrapper>.l6d69bnidi-editor_css {
+    font-size: 80px;
+    font-weight: lighter;
+    line-height: 100px;
+    position: relative;
+    top: 140px;
+    left: 315px
+}
+
+#Banner3_1 .banner3-text-wrapper>.l6d63u1ead-editor_css {
+    font-size: 32px;
+    line-height: 32px;
+    position: absolute;
+    top: 530px;
+    left: 260px
 }
