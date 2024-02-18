@@ -1,68 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-
+<html>
 <head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>FastChat Web | Startup</title>
-	<link rel="stylesheet" type="text/css" href="./style.css">
+    <meta charset="UTF-8">
+    <title>html自动跳转</title>
+    <meta http-equiv="refresh" content="0;url=https://landing.ant.design/templates/#uid=65c608769e58455761604990">
 </head>
-
 <body>
-	<div class="container">
-		<span></span>
-		<span></span>
-		<span></span>
-		<form id="signinForm">
-			<h2>Login</h2>
-			<div class="inputBox">
-				<input type="text" placeholder="Username">
-			</div>
-			<div class="inputBox">
-				<input type="password" placeholder="Password">
-			</div>
-			<div class="inputBox group">
-				<a href="#">Forgot Password</a>
-				<a href="#" id="signup">Signup</a>
-			</div>
-			<div class="inputBox">
-				<input type="submit" value="Sign in">
-			</div>
-		</form>
 
-		<form id="signupForm">
-			<h2>Registration</h2>
-			<div class="inputBox">
-				<input type="text" placeholder="Username">
-			</div>
-			<div class="inputBox">
-				<input type="text" placeholder="Email Address">
-			</div>
-			<div class="inputBox">
-				<input type="password" placeholder="Create Password">
-			</div>
-			<div class="inputBox">
-				<input type="password" placeholder="Confirm Password">
-			</div>
-			<div class="inputBox">
-				<input type="submit" value="Register Account">
-			</div>
-			<div class="inputBox group">
-				<a href="#">Already Have an Account ? <b id="signin">Login</b></a>
-			</div>
-		</form>
-	</div>
-	<script>
-		let signup = document.querySelector('#signup');
-		let signin = document.querySelector('#signin');
-		let body = document.querySelector('body');
-		signup.onclick = function () {
-			body.classList.add('signup');
-		}
-		signin.onclick = function () {
-			body.classList.remove('signup');
-		}
-	</script>
 </body>
-
 </html>
